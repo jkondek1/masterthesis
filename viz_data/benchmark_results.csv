@@ -1,0 +1,6 @@
+﻿model;precision;recall;accuracy
+CNN_upsampled;0.167;0.169;0.711
+SVMem_upsampled;0.211;0.032;0.812
+SVM300_upsampled;0.425;0.524;0.796
+NB300_upsampled;1;0.008;0.829
+KNN;0;0;0
